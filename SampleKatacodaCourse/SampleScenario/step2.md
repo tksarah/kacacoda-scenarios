@@ -1,3 +1,3 @@
 # Step 2
 
-FugaFuga
+ふがふが
